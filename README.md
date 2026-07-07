@@ -67,15 +67,12 @@ AutoInsight-AI/
 │   │   ├── dataframe.py
 │   │   ├── statistics.py
 │   │   └── plotting.py
-│   ├── prompts/
-│   │   └── insight_prompt.py
 │   ├── graph.py
 │   ├── state.py
 │   └── llm.py
 ├── frontend/
 │   └── streamlit_app.py
-├── reports/
-├── outputs/
+├── report/
 ├── requirements.txt
 └── README.md
 ```
