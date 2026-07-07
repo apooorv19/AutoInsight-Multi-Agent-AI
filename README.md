@@ -111,14 +111,49 @@ streamlit run frontend/streamlit_app.py
 
 Upload a CSV file, click **Run Analysis**, and review the overview, statistics, visualizations, insights, and downloadable Markdown report.
 
-## Screenshots Placeholder
+## Screenshots
 
-Add your screenshots here after running the app:
+### Dashboard
 
-- Dashboard overview screenshot
-- Statistics section screenshot
-- Visualization section screenshot
-- Generated report screenshot
+![Dashboard](images/Dashboard.png)
+
+### Statistics
+
+![Statistics](images/Statistics.png)
+
+### Insight 1
+
+![Insight 1](images/Insight1.png)
+
+### Insight 2
+
+![Insight 2](images/Insight2.png)
+
+### Insight 3
+
+![Insight 3](images/Insight3.png)
+
+### Visualization 1
+
+![Visualization 1](images/Visualization1.png)
+
+### Visualization 2
+
+![Visualization 2](images/Visualization2.png)
+
+### Visualization 3
+
+![Visualization 3](images/Visualization3.png)
+
+### Generated Report
+
+![Generated Report](images/Report.png)
+
+## Sample Generated Report
+
+The AI-generated report can be downloaded directly from the application. A sample generated report is available here:
+
+📄 [View Sample Markdown Report](report/sample_report.md)
 
 ## Future Improvements
 
