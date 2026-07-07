@@ -152,6 +152,14 @@ The AI-generated report can be downloaded directly from the application. A sampl
 
 📄 [View Sample Markdown Report](report/sample_report.md)
 
+---
+
+## Notes
+
+- Statistics are computed in Python only.
+- The LLM is used only for interpretation.
+- Invalid plots are skipped instead of crashing the workflow.
+
 ## Future Improvements
 
 - Add optional caching for repeated analyses.
@@ -160,8 +168,28 @@ The AI-generated report can be downloaded directly from the application. A sampl
 - Save rendered reports automatically into the `reports/` folder.
 - Add test coverage for the data, statistics, and plotting tools.
 
-## Notes
+---
 
-- Statistics are computed in Python only.
-- The LLM is used only for interpretation.
-- Invalid plots are skipped instead of crashing the workflow.
+## Author
+
+**Apurva Mishra**  
+IMSc Quantitative Economics & Data Science  
+Birla Institute of Technology, Mesra  
+
+**GitHub:** https://github.com/apooorv19  
+**LinkedIn:** https://www.linkedin.com/in/apooorv/
+
+---
+
+## Credits
+
+### Iris Dataset
+
+```text
+Fisher, R. A. (1936).
+The use of multiple measurements in taxonomic problems.
+Annals of Eugenics, 7(2), 179–188.
+
+Dataset available from the UCI Machine Learning Repository:
+https://archive.ics.uci.edu/ml/datasets/iris
+```
